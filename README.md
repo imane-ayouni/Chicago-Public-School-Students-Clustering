@@ -1,17 +1,33 @@
 ﻿# Chicago-Public-School-Students-Segmentation
 
+## Topic 
+
+This project aims to cluster students of a public school in Chicago. The data set available contains information about students contact, progress, family environment, soft skills scores... etc.
+
+## Objectives 
+
+- Treat the data set
+- Understand the data and its imporant characteristics
+- Cluster the students using different models
+
+
+## Model's used 
+
+- Kmeans
+- DBSCAN
+- Gaussian mixture
+- Agglomerative hierarchical clustering 
 
 
 
+## Evaluation matrices used 
 
-
-
-
-
-
-
-
-
+- Dendrogram
+- Silhouette plot
+- Elbow plot
+- Silhouette score
+- CH index
+- DB index
 
 
 ## Data source:
